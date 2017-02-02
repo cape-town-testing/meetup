@@ -5,6 +5,7 @@ As people who test things, we believe that the more deeply we understand our too
 This lightning talk will  try and challenge what insight really is, and what the differences between understanding people and things are.
 
 **Video:** _watch this space_
+**Talk summary:** _watch this space_
 
 ##"Testing stacked" 
 ###Shakes Ramphal
@@ -13,6 +14,7 @@ Shakes will breaking down one Allan Gray team’s approach on building quality s
 The short presentation will touch on the strategy to empower testers with ability to throw out buzz words like React, Nightwatch, JavaScript… with confidence, as well as make a decent cuppa mocha or chai. 
 
 **Video:** _watch this space_
+**Talk summary:** _watch this space_
 
 ##Keep Critical: The Impact of Coding on the Testing Mindset" 
 ###Rob Herbst
@@ -20,3 +22,4 @@ The increasing pace of software development is forcing companies to embrace auto
 This talk will look at potential consequences of combining testing and coding into one role and how one might provide optimal value when testing software.
 
 **Video:** _watch this space_
+**Talk summary:** _watch this space_

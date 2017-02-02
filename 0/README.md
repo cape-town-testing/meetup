@@ -14,7 +14,7 @@
 
 6.55 "Keep Critical: The Impact of Coding on the Testing Mindset" - Rob Herbst
 
-7.20 Panel discussion, 
+7.20 Panel discussion
 
 7.55 Closing message
 
