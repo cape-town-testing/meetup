@@ -2,18 +2,22 @@
 
 ## Overview
 
-Teams compete against each other in this game. 
-Should be 2/3+ players per team
+Those who work in softeware find difficulty in communicating withothers without using jargon. 
+
+This game is a practical exercise at getting better at describing Domain Specfic Language without using jargons or common terms.
 
 
 ## Equipment
 
 Taboo Cards (some populated with words, some can be blank), sand timers, “buzzers” (something that alerts that a taboo word has been used)
-Example cards can be found [here](https://drive.google.com/open?id=0B3E1sKJ8quaCbE1LdjYwaVlYWU0)
+
+Example cards can be downloaded [here](https://drive.google.com/open?id=0B3E1sKJ8quaCbE1LdjYwaVlYWU0).
 
 ## Instructions to players
 
-**Gameplay:** At the teams own pace, teams do an "art showing" of, usually, 1 to 5 art pieces (cards) at a time. The game master will select **and take away**The rules of the game “Taboo” are: 
+**Gameplay:** 
+
+The rules of the game “Taboo” are: 
 * You have two teams (A and B). Players from each team must sit alternating (ABABABA…) in a circle.
 * A player from team B starts a timer.
 * A player of Team A starts: The player draws a card from the pile. 
@@ -27,4 +31,9 @@ Example cards can be found [here](https://drive.google.com/open?id=0B3E1sKJ8quaC
 
 ## Outcomes
 Software Development is primarily about collaboration and communication within teams and with external stakeholders. 
-Communication with stakeholders can be a delicate activity, with team members sometimes having to avoid terms that may be controversial to stakeholders (in German these are known as: “Reizwort”). A teter friend of mine once had the situation where, although he was part of a self-organized team, but use of any Scrum terms was problematic for management. So we had to work with synonyms (i.e. iteration instead of sprint). So this workshop is a practical and gamified exercise for getting better at describing things without naming them.
+
+Communication with stakeholders can be a delicate activity, with team members sometimes having to avoid terms that may be controversial to stakeholders (in German these are known as: “Reizwort”). 
+
+A tester friend of mine once had the situation where, although he was part of a self-organized team, use of any Scrum terms was problematic for management. So they had to work with synonyms (i.e. iteration instead of sprint). 
+
+So this workshop is a practical and gamified exercise for getting better at describing things without naming them.

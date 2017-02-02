@@ -1,8 +1,14 @@
-#The first ever Cape Town Testing meet up
+# The first ever Cape Town Testing meet up
 
-## 2 February 2017
+### Date: 
+2 February 2017
 
-###Agenda
+### Venue: 
+Allan Gray, Waterfront, Cape Town
+
+ 
+ 
+### Agenda:
 
 5.30 Registration & Games
 

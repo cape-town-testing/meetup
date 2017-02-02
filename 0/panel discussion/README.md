@@ -17,5 +17,5 @@ Unlike the speakers / presenters before – the panel members doesn’t claim to
 * Shekhar Rhampal (Allan Gray)
 
 ### Summary of points discussed
-_TBA_
+_Coming soon!_
 
