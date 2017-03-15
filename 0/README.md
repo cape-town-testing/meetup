@@ -25,9 +25,9 @@ Allan Gray, Waterfront, Cape Town
 
 ### Voting outcomes
 
-[Logo Vote] (https://twitter.com/CapeTownTesting/status/829972053923098624)
+ * [Logo Vote](https://twitter.com/CapeTownTesting/status/829972053923098624)result
 
-The [winner] (https://twitter.com/CapeTownTesting/status/829666972614926336) of our logo vote competition was _Samantha Laing_ , and she was awarded a Chewbacca Powerbank for her contribution towards the choice of logo - congratulations!
+ * The [winner](https://twitter.com/CapeTownTesting/status/829666972614926336) of our logo vote competition was [Samantha Laing](https://twitter.com/samlaing), and she was awarded a Chewbacca Powerbank for her contribution towards the choice of logo - congratulations!
 
 ### "What I Want to See Next Time"
 
@@ -56,4 +56,4 @@ Proposed ideas/topics for future meetups, as suggested by attendees:
 
 ### Next meeting date and time:
 
-To be communicated via [Meetup](https://www.meetup.com/Cape-Town-Testing-Meetup/) and [Twitter](https://twitter.com/CapeTownTesting/), [Facebook](https://www.facebook.com/capetowntesting/) and/or email 
+[The next quarterly meetup official event](https://www.meetup.com/cape-town-testing-meetup/events/238138566/)is scheduled for 11th May 2017, 17h30 for 18h00. 
