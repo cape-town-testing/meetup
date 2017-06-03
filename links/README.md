@@ -1,4 +1,4 @@
-#Incredibly inspiring links
+# Incredibly inspiring links
 
 ### Public speaking and slide making
 * https://zachholman.com/posts/slide-design-for-developers/
