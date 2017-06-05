@@ -40,7 +40,7 @@ Note: Players are _never_ to be told the rule but other players (it is not unhea
   *	What other rules can you think of?
 
 ## Outcomes
-A great resourdce for an experience and outcomes of The Dice Game [here](http://www.bettertesting.co.uk/content/?p=438)
+A great resourdce for an experience and outcomes of The Dice Game [here](http://www.bettertesting.co.uk/content/?p=438).
 
 Rather than simply getting the correct answer, the exploratory testing process is more important. 
 The Dice Game gives valuable practice in forming a hypothesis and validating or refuting the hypothesis though testing.

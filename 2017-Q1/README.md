@@ -25,7 +25,7 @@ Allan Gray, The V&A Waterfront, Cape Town
 
 ### Voting outcomes
 
- * [Logo Vote](https://twitter.com/CapeTownTesting/status/829972053923098624)result
+ * [Logo Vote](https://twitter.com/CapeTownTesting/status/829972053923098624) results
 
  * The [winner](https://twitter.com/CapeTownTesting/status/829666972614926336) of our logo vote competition was [Samantha Laing](https://twitter.com/samlaing), and she was awarded a Chewbacca Powerbank for her contribution towards the choice of logo - congratulations!
 
@@ -53,10 +53,8 @@ Proposed ideas/topics for future meetups, as suggested by attendees:
 * Pay-scales in the industry
 * Requirements engineering techniques
 
-
-
 ## Next meeting date and time:
 
-To be communicated via Meetup.com and communication channels.
+Q2 6th June 2017, hosted at JUMO.
 
 
