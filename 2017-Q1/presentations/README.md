@@ -21,7 +21,7 @@ The short presentation will touch on the strategy to empower testers with abilit
 
 **Talk summary:** An optimal testing environment is a balancing act between robustness and flexibility. Allan Gray's testing stack was reviewed in terms of its microservice architecture and the tools used to maintain this architectural model. The  testing framework is therefore aligned to Allan Gray's web stack context.   
 
-## Keep Critical: The Impact of Coding on the Testing Mindset" 
+## "Keep Critical: The Impact of Coding on the Testing Mindset" 
 ### Rob Herbst
 The increasing pace of software development is forcing companies to embrace automated testing. What used to be the job of humans is becoming the job of computers. More and more the people doing the testing are being expected to write automated test suites. 
 

@@ -1,4 +1,4 @@
-#Panel discussion
+# Panel discussion
 
 ## Topic: "Does a good tester have to be able to read/ write code or automate?" 
 

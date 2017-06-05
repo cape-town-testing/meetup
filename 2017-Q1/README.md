@@ -1,10 +1,10 @@
-# The first ever Cape Town Testing meet up
+# The first ever Cape Town Testing meetup
 
 ### Date: 
 2 February 2017
 
 ### Venue: 
-Allan Gray, Waterfront, Cape Town
+Allan Gray, The V&A Waterfront, Cape Town
  
 ### Agenda:
 
@@ -12,11 +12,11 @@ Allan Gray, Waterfront, Cape Town
 
 6.15 Welcome by Benny Ou
 
-6.20 "Measurement and trust" - Irfaan Imamdin
+6.20 *"Measurement and trust"* - Irfaan Imamdin
 
-6.45 "Testing stacked" - Shakes Ramphal 
+6.45 *"Testing stacked I: Allan Gray Edition"* - Shakes Ramphal 
 
-6.55 "Keep Critical: The Impact of Coding on the Testing Mindset" - Rob Herbst
+6.55 *"Keep Critical: The Impact of Coding on the Testing Mindset"* - Rob Herbst
 
 7.20 Panel discussion
 
@@ -54,6 +54,9 @@ Proposed ideas/topics for future meetups, as suggested by attendees:
 * Requirements engineering techniques
 
 
-### Next meeting date and time:
 
-[The next quarterly meetup official event](https://www.meetup.com/cape-town-testing-meetup/events/238138566/)is scheduled for 11th May 2017, 17h30 for 18h00. 
+## Next meeting date and time:
+
+To be communicated via Meetup.com and communication channels.
+
+

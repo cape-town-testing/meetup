@@ -3,8 +3,10 @@
 ### Public speaking and slide making
 * https://zachholman.com/posts/slide-design-for-developers/
 * http://speaking.io/
-### name tags
+### Name tags
 * http://www.swiss-miss.com/conversation-starter-tags
 * http://www.icebreakertags.com/
-### library 
+### Library 
 * http://toolbox.hyperisland.com/
+###Testing games/Challenges
+* http://www.testing-challenges.org/Testing+Challenges
