@@ -38,22 +38,21 @@ The JUMO Tap, Wembley Square, Gardens, Cape Town
 generated was found by Evelyn Wicksteed
 [@eve_wicksteed](https://twitter.com/eve_wicksteed) !.  
 
-At the end of the night the leaderboard stood at:
-1. <TBA!>
-2. <TBA!>
-3. <TBA!>
-4. <TBA!>
-5. <TBA!>
-6. <TBA!>
-7. <TBA!>
-8. <TBA!>
-9. <TBA!>
-10. <TBA!>
 
 ### "What I Want to See Next Time"
 
 Proposed ideas/topics for future meetups, as suggested by attendees:
-
+* Upcoming tech
+* UI & UX Testing
+* Dealing with difficult" managers
+* Dealing with a company that has no test managers
+* Review post mortem
+* Load and stress testing
+* Testing Process
+* More breaks between speakers (my poor brain!)
+* D3 Chart testing
+* The Open Source Cape Town Testin Meetup Git Project
+* Testing AI
 
 
 ### Reviews from the community
