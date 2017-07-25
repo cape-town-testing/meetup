@@ -33,5 +33,9 @@ Of the teams who participated, an honourable mention goes to the following Cape 
 
 And an extra special mention goes out to Cape Town Testing’s Team RICK, who submitted 4/8 correct solutions, placing them in the top 20% globally! Well done to: Robert Herbst, Irfaan Imamdin, Clarissa Johnston and Karin Herbst!
 
+For more information about the 2017 CS50x Puzzle Day, check out: https://medium.com/@cs50/cs50x-puzzle-day-2017-around-the-world-4c2aa044d1f7
+
 Solutions to all of the puzzles can be found at https://www.youtube.com/watch?list=PLhQjrBD2T382_GJT2NRgEQ1vA9K_LqJbe&v=fb-XgfQSwME
+
+
 
