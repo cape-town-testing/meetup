@@ -5,6 +5,8 @@
 
 ### Venue: 
 Allan Gray, The V&A Waterfront, Cape Town
+
+![alt text](https://github.com/cape-town-testing/meetup/blob/master/2017-Q1/Allan%20Gray%20Logo.jpg)
  
 ### Agenda:
 
