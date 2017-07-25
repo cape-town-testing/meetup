@@ -27,24 +27,11 @@ In the follow-up world-wide survey of the event, the majority of teams (60.9%) f
 
 Of the teams who participated, an honourable mention goes to the following Cape Town Testing teams who submitted their solutions online:
 
-Fire Breathing Rubber Dukkies
-RICK
-Surprise4
+- Fire Breathing Rubber Dukkies
+- RICK
+- Surprise4
 
 And an extra special mention goes out to Cape Town Testing’s Team RICK, who submitted 4/8 correct solutions, placing them in the top 20% globally! Well done to: Robert Herbst, Irfaan Imamdin, Clarissa Johnston and Karin Herbst!
 
-Solutions to all of the puzzles can be found here.
+Solutions to all of the puzzles can be found at https://www.youtube.com/watch?list=PLhQjrBD2T382_GJT2NRgEQ1vA9K_LqJbe&v=fb-XgfQSwME
 
-
-Cape Town Testing: Q2 Meetup Reminder! 
-
-Don't forget to RSVP to our Cape Town Testing Quarter 2 meetup, which will be hosted by JUMO on Tuesday 6 June 2017. We decided to reschedule the original meetup date due to the refurbishing of the shiny new “JUMO Tap" venue, which we know you'll love.
-
-This is definitely one not to miss, folks!
-
-A little teaser: The illustrious security expert, Craig Swan, will be taking us through how to ethically hack into a machine over a wifi network using social engineering and other nifty techniques (so bring your laptops!), he’ll also be demonstrating what a web development team can do to make their work secure before the professional pen testers even get involved.
-
-Lastly, don't forget to connect with us on Meetup­, Twitter­ and Facebook­ to get to-the-minute updates.
-
-Have a great week back at work!
-Cape Town Testing Meetup
