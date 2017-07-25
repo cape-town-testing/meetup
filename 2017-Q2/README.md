@@ -57,7 +57,7 @@ Proposed ideas/topics for future meetups, as suggested by attendees:
 
 ### Reviews from the community
 
-- Submitted by Pi Delport:
+- Submitted by **Pi Delport**:
 
   Thanks for the great meetup! :) I have some things I'd like to share:
 
@@ -72,18 +72,18 @@ Proposed ideas/topics for future meetups, as suggested by attendees:
   https://www.youtube.com/watch?v=mg5BeeYGjY0 — Property-based testing with Hypothesis (Jeremy Thurgood, PyConZA 2015)
 
 
-- Submitted by Nicolaas J. Kotze
+- Submitted by **Nicolaas J. Kotze**
 
   GREAT SHOW GUYS! Really exhilarating stuff and very happy to see the human behavior are being realized behind why things   "break". See you at the next event!
 
-- Submitted by Faghrudien Schroeder
+- Submitted by **Faghrudien Schroeder**
 
   Great event, looking forward to the next one.
 
-- Submitted by Susmitha Chinnamalreddy
+- Submitted by **Susmitha Chinnamalreddy**
   Thank you all!! I enjoyed the meetup and learnt something. See you at the next one...
   
-  Other Feedbac solicited on the night:
+  **Other Feedback solicited on the night:**
   
 - “Liked and enjoyed the meet up. Would it be possible for more interactions in future? Finding out where the audience is  from and what they do? Getting people more comfortable with each other forming more of a community?”
 
