@@ -3,33 +3,37 @@
 ## "Nope, that's NOT a feature, it IS a bug." 
 ### Schalk Vorster
 
-Product Owner Schalk Vorster will take us through his choice of interesting and lesser-known biases, external and internal factors that influence the way we approach problem solving and testing - blowing your mind in the process! 
+Product Owner Schalk Vorster took the attendees through his choice of interesting and lesser-known biases, external and internal factors that influence the way we approach problem solving and testing - blowing your mind in the process! 
 
+[Presentation video](https://youtu.be/338u2vXODV0)
 
-**Video:** Link coming soon! (usually uploaded within a week of the meetup evening)
-
-**Summary notes taken live at the meetup:** Coming soon! (usually uploaded within a few days of the meetup evening)
+[Presentation slides](Nope_that's_NOT_a_feature_it_IS_a_bug-Schalk_Vorster.pdf)
 
 ## "Testing Stacked II: JUMO Edition" 
 ### Louise Perold, Sean O'Reilly, and Darryn Papathanasiou 
-This will be the second in a series of many testing stack presented by the different host companies over the course of the Cape Town Testing meetups.
+This is the second in a series of many testing stack presented by the different host companies over the course of the Cape Town Testing meetups.
 
-We will be taken through JUMO's testing journey and given a glimpse into the JUMO testing architecture.
+The meetup was taken through JUMO's testing journey and were given a glimpse into the JUMO testing architecture.
 
-**Video:** Link coming soon! (usually uploaded within a week of the meetup evening)
+[Presentation video](https://youtu.be/2w5GnJbZjtc)
 
-**Summary notes taken live at the meetup:** Coming soon! (usually uploaded within a few days of the meetup evening)
+[Presentation slides](Testing_Stacked_II_JUMO_Edition.pdf)
+
 
 ## "Security Testing from an attacker's perspective!" 
 ### Craig Swan
+
 Sure, you’re no professional Pen Tester but what are the easy things you can do (and should be doing!) to protect your software against attackers?
+The illustrious security expert, Craig Swan, took us through how to ethically hack into a machine over a wifi network using social engineering, SQL injection and other nifty techniques. 
 
-The illustrious security expert, Craig Swan, will be taking us through how to ethically hack into a machine over a wifi network using social engineering, sql injection, and other nifty techniques. 
+Craig also demonstrated what a web development team can do to make their work secure before the professional pen testers even get involved. 
 
-Whoever hacks the Mac first wins the grand prize!
+As the talk progressed, attendees competed against each other to hack the presenters laptop over the local wifi network!
 
 References: [OWASP Top 10 Most Critical Web App Security Risks](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project) and the [NMAP security scanner](https://nmap.org/)
 
-**Video:** Link coming soon! (usually uploaded within a week of the meetup evening)
+[Presentation video](https://youtu.be/587lVuduLmI)
 
-**Summary notes taken live at the meetup:** Coming soon! (usually uploaded within a few days of the meetup evening)
+[Presentation slides](Security_Testing_from_an_attackers_perspective-Craig_Swan.pdf)
+
+[Detail on the questions Craig fielded on the night](security_questions.md)
