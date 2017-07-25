@@ -64,6 +64,17 @@ https://www.youtube.com/watch?v=zreqHzANvvw — 21st Century Software Testing (D
 https://www.youtube.com/watch?v=mg5BeeYGjY0 — Property-based testing with Hypothesis (Jeremy Thurgood, PyConZA 2015)
 
 
+- Submitted by Nicolaas J. Kotze
+
+GREAT SHOW GUYS! Really exhilarating stuff and very happy to see the human behavior are being realized behind why things "break". See you at the next event!
+
+- Submitted by Faghrudien Schroeder
+
+Great event, looking forward to the next one.
+
+- Submitted by Susmitha Chinnamalreddy
+Thank you all!! I enjoyed the meetup and learnt something. See you at the next one...
+
 ### Next meeting date and time:
 
 Q3 17th August 2017, hosted by DVT
