@@ -53,6 +53,8 @@ Proposed ideas/topics for future meetups, as suggested by attendees:
 
 - Submitted by Pi Delport:
 
+Thanks for the great meetup! :) I have some things I'd like to share:
+
 First, if you're interested in injection attacks and testing for them, you might be interested in this compendium of strings that may break systems:
 
 https://github.com/minimaxir/big-list-of-naughty-strings
