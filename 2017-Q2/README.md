@@ -51,14 +51,12 @@ Proposed ideas/topics for future meetups, as suggested by attendees:
 
 ### Reviews from the community
 
+Pi Delport:
 First, if you're interested in injection attacks and testing for them, you might be interested in this compendium of strings that may break systems:
-
 https://github.com/minimaxir/big-list-of-naughty-strings
 
 Second, how many of you folks are enthusiastic about (or know of!) the concept of property-based testing? If you're not familiar, these talks introduce the idea:
-
 https://www.youtube.com/watch?v=zreqHzANvvw — 21st Century Software Testing (David MacIver, author of Hypothesis, PyCon Russia 2016)
-
 
 https://www.youtube.com/watch?v=mg5BeeYGjY0 — Property-based testing with Hypothesis (Jeremy Thurgood, PyConZA 2015)
 
