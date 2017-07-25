@@ -1,6 +1,6 @@
 # The second Cape Town Testing meetup
 
-![alt text](https://github.com/cape-town-testing/meetup/blob/master/2017-Q2/CTTM%20Shirts.jpg)
+![T-shirts](https://github.com/cape-town-testing/meetup/blob/master/2017-Q2/CTTM%20Shirts.jpg)
 
 ### Date: 
 6 June 2017
@@ -8,7 +8,7 @@
 ### Venue: 
 The JUMO Tap, Wembley Square, Gardens, Cape Town
 
-![alt text](https://github.com/cape-town-testing/meetup/blob/master/2017-Q2/JUMO%20logo.jpeg)
+![Jumo logo](https://github.com/cape-town-testing/meetup/blob/master/2017-Q2/JUMO%20logo.jpeg)
 
  
 ### Agenda:
