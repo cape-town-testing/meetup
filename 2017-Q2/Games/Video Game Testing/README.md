@@ -10,7 +10,9 @@ We've teamed up with [Make Games South Africa](http://makegamessa.com/discussion
 Make Games SA meets on the last Wednesday of every month. Follow their [blog](http://makegamessa.com/) or on [Facebook](https://www.facebook.com/MakeGamesSouthAfrica/) to get the latest news regarding their community.
 
 Follow them [@MakeGamesSA](https://twitter.com/MakeGamesSA) on twitter.
-### Pilot
+### Pilot: Clockwork Acorn
+
+![Clockwork Acorn](http://clockworkacorn.com/wp-content/uploads/2015/08/logo_200.png)
 
 [Clockwork Acorn](http://clockworkacorn.com/), Clockwork Acorn is an interactive software development studio based in Cape Town, is piloting this potentially great symbiotic relationship between our two communities and will be hosting a table at our Q2 meetup. 
 
@@ -18,3 +20,5 @@ Follow them [@MakeGamesSA](https://twitter.com/MakeGamesSA) on twitter.
 Clockwork Acorn's new game is called [Jetstream](http://jetstreamgame.com/). It's described as "an elegant puzzle game where you soar amongst the clouds. Play through dozens of sculpted levels as you travel around the globe." and will be launched globally around August 2017.
 
 Interested? [Subscribe](http://jetstreamgame.com/#sign-up) to the Jetstream mailing list to hear about any beta invites.
+
+###### Richard, a crew member of Cape Town Testing, giving Jetstream a try: ![Testing Jetstream](https://pbs.twimg.com/media/DBpa8TgWsAUYRQf.jpg:large)
