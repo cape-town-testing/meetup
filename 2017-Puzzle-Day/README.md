@@ -1,4 +1,23 @@
-### Puzzle Day 2017!
+# Puzzle Day 2017!
+
+### Date
+1 April 2017
+
+### Venue: 
+The Honey Badger (91 Loop Street)
+ 
+### Agenda:
+·  09h30 for  10h00 start
+
+·  10h00 registration, receive puzzle packs and introduction
+
+·  10h30 start solving your puzzles (3 hours of puzzle solving in teams)
+
+·  Lunch will be served
+
+·  14h00 Prize-giving & close
+
+### Review:
 
 On Saturday, 1 April 2017 Cape Town Testing hosted the Cape Town leg of CS50x Puzzle Day 2017 (virtually hosted by Harvard and Facebook). The CS50x Puzzle Day perfectly aligned with Cape Town Testing’s aim of improving critical thinking and challenging the status quo. Puzzle Day was a fun-filled event that we thoroughly enjoyed sharing with our critical thinking community, and we look forward to many more hype events such as this one!
 
