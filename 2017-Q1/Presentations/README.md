@@ -9,7 +9,7 @@ This lightning talk will  try and challenge what insight really is, and what the
 
 [Presentation video](https://youtu.be/WM_ChaW8RJk?t=25s)
 
-[Presentation slides](slides-trust-measurement.pptx)
+[Presentation slides](slides-trust-measurement.pdf)
 
 **Summary notes taken live at the meetup:** Validating the basis for our understanding, related to simple, everyday concepts makes us realise that our understanding and insights are based on assumptions that we accept to be true. Holding these assumptions true within the framework of a solution may not always produce a 100% empirically correct solution, but there is a balance that must be struck between the precision of the solution versus achieving the underlying motivations for the solution. 
 
@@ -23,7 +23,7 @@ The short presentation will touch on the strategy to empower testers with abilit
 
 [Presentation video](https://youtu.be/WM_ChaW8RJk?t=13m56s)
 
-[Presentation slides](slides-testing-stacked.pptx)
+[Presentation slides](slides-testing-stacked.pdf)
 
 **Summary notes taken live at the meetup:** An optimal testing environment is a balancing act between robustness and flexibility. Allan Gray's testing stack was reviewed in terms of its microservice architecture and the tools used to maintain this architectural model. The  testing framework is therefore aligned to Allan Gray's web stack context.   
 
@@ -35,7 +35,7 @@ This talk will look at potential consequences of combining testing and coding in
 
 [Presentation video](https://youtu.be/WM_ChaW8RJk?t=26m28s)
 
-[Presentation slides](slides-keep-critical.pptx)
+[Presentation slides](slides-keep-critical.pdf)
 
 **Summary notes taken live at the meetup:** A testing mindset is not limited to the tester role. Developers, analysts and testers alike should realise that they have a vested interest in building quality solutions. The "make it" or "break it" mindset is a valuable mindset to interrogate the quality of an application, and the separation of duty between development and testing roles is important to prevent an imbalance towards either mindset. Business context and user motivation is a core tenet of any good testing mindset, and should be complemented (not replaced) by a proficiency for programming knowledge.
 
