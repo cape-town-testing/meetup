@@ -105,3 +105,8 @@ Proposed ideas/topics for future meetups, as suggested by attendees:
 Q3 17th August 2017, hosted by DVT
 
 Q4 19th October 2017, hosted by <TBA! We don't have a venue yet. Contact us if you would like to host.>
+
+### BONUS - Let's Test 2017 DISCOUNT CODE!
+As a reward for your continued interest and support of the Cape Town Testing meetup, our friends who are organizing Let's Test SA have offered a community discount on your ticket to the conference in November!
+Use the discount code "CTTMEETUP" to receive 10% off the price of your conference ticket, if booked and paid between 1 June and 31 August.
+Terms and conditions: First come, first serve basis on a limited number of rooms (only 4 x sharing rooms & 5 x single rooms available). 
