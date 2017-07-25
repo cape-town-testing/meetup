@@ -34,7 +34,9 @@ The JUMO Tap, Wembley Square, Gardens, Cape Town
 
 **Ethical Hacker of the Quarter** - The grand prize was awarded to <TBA!> for hacking the Mac laptop before all else
 
-**Parking lot calculator** (*#SpoofTheCalc*) - The most ridiculous fee generated was "<TBA!>" found by <TBA!>. 
+**Parking lot calculator** (*#SpoofTheCalc*) - The [most ridiculous fee](https://twitter.com/CapeTownTesting/status/872360062081216512) 
+generated was found by Evelyn Wicksteed
+[@eve_wicksteed](https://twitter.com/eve_wicksteed) !.  
 
 At the end of the night the leaderboard stood at:
 1. <TBA!>
@@ -52,7 +54,7 @@ At the end of the night the leaderboard stood at:
 
 Proposed ideas/topics for future meetups, as suggested by attendees:
 
-<TBA!>
+
 
 ### Reviews from the community
 
