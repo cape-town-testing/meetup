@@ -21,6 +21,8 @@ The Honey Badger (91 Loop Street)
 
 On Saturday, 1 April 2017 Cape Town Testing hosted the Cape Town leg of CS50x Puzzle Day 2017 (virtually hosted by Harvard and Facebook). The CS50x Puzzle Day perfectly aligned with Cape Town Testing’s aim of improving critical thinking and challenging the status quo. Puzzle Day was a fun-filled event that we thoroughly enjoyed sharing with our critical thinking community, and we look forward to many more hype events such as this one!
 
+See photos of the event here: https://www.meetup.com/cape-town-testing-meetup/photos/27689818/
+
 We ultimately hosted 3 teams of the world-wide total of 297 teams comprising of 750 participants - thank you to all the teams that came by to solve puzzles, develop their critical thinking, eat free pizza and contribute to our community.
 
 In the follow-up world-wide survey of the event, the majority of teams (60.9%) felt that the puzzles were too hard, indicative of the number of puzzles solved globally - 62% of teams managed to solve only 2 puzzles or less, with the average number of puzzles solved being 2.5 puzzles per team!
