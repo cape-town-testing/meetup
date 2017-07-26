@@ -29,6 +29,11 @@ We ultimately hosted 3 teams of the world-wide total of 297 teams comprising of 
 
 In the follow-up world-wide survey of the event, the majority of teams (60.9%) felt that the puzzles were too hard, indicative of the number of puzzles solved globally - 62% of teams managed to solve only 2 puzzles or less, with the average number of puzzles solved being 2.5 puzzles per team!
 
+![Puzzle Day Poster](https://github.com/cape-town-testing/meetup/blob/master/2017-Puzzle-Day/cttm1.png)
+![Puzzle Day Poster](https://github.com/cape-town-testing/meetup/blob/master/2017-Puzzle-Day/cttm2.png)
+![Puzzle Day Poster](https://github.com/cape-town-testing/meetup/blob/master/2017-Puzzle-Day/cttm3.png)
+
+
 ### Winners:
 
 Of the teams who participated, an honourable mention goes to the following Cape Town Testing teams who submitted their solutions online:
@@ -38,6 +43,8 @@ Of the teams who participated, an honourable mention goes to the following Cape 
 - Surprise4
 
 And an extra special mention goes out to Cape Town Testing’s Team RICK, who submitted 4/8 correct solutions, placing them in the top 20% globally! Well done to: Robert Herbst, Irfaan Imamdin, Clarissa Johnston and Karin Herbst!
+
+![Puzzle Day Poster](https://github.com/cape-town-testing/meetup/blob/master/2017-Puzzle-Day/cttm4.png)
 
 ### Resources:
 
