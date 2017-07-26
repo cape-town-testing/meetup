@@ -1,6 +1,6 @@
 # Puzzle Day 2017!
 
-[![Puzzle Day Poster](https://github.com/cape-town-testing/meetup/blob/master/2017-Puzzle-Day/Puzzle%20Day%20Poster.jpg)
+![Puzzle Day Poster](https://github.com/cape-town-testing/meetup/blob/master/2017-Puzzle-Day/Puzzle%20Day%20Poster.jpg)
 
 ### Date
 1 April 2017
