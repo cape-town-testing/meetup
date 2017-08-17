@@ -15,13 +15,13 @@ Presentation slides: *Coming soon!*
 
 This talk that covers the different things people mean when they talk about 'quality' in software development. In general the talk is about suggesting that the narrow definition we usually use does not factor in meeting business requirements. 
 
-[Presentation video](https://youtu.be/2w5GnJbZjtc) *Coming soon!*
+Presentation video: *Coming soon!*
 
 [Presentation slides](What_defines_quality_by_Rory_McKinley.pdf)
 
 ## "Digital transition: Back to the future!" 
 ### Nadine du Toit
 
-[Presentation video](https://youtu.be/587lVuduLmI) *Coming soon!*
+Presentation video: *Coming soon!*
 
 [Presentation slides](Back_to_the_future_by_Nadine_du_Toit.pdf)
