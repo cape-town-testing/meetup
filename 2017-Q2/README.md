@@ -1,4 +1,4 @@
-# The second Cape Town Testing meetup
+# The second, quarterly, Cape Town Testing meetup
 
 ![T-shirts](https://github.com/cape-town-testing/meetup/blob/master/2017-Q2/CTTM%20Shirts.jpg)
 
