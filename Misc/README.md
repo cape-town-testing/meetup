@@ -8,5 +8,9 @@
 * http://www.icebreakertags.com/
 ### Library 
 * http://toolbox.hyperisland.com/
-###Testing games/Challenges
+### Testing games/Challenges
 * http://www.testing-challenges.org/Testing+Challenges
+### Misc
+* https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/ Psychology of learning mindset
+* https://www.youtube.com/user/Nerdwriter1/ Nerdwriter - communicate a complex brilliantly in 7mins or less
+* https://youtu.be/78rPt0RsosQ Counterintuitive Secret to Fun
