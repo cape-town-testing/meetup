@@ -1,6 +1,7 @@
+### 2018.Q1 
 # The fifth ever, quarterly, Cape Town Testing meetup
 
-## 2018.Q1 
+
 ## MAKE QUALITY FRIENDS, MAKE QUALITY SOFTWARE
 ![MAKE QUALITY FRIENDS, MAKE QUALITY SOFTWARE](https://secure.meetupstatic.com/photos/event/2/a/d/3/highres_468670963.jpeg)
 
@@ -16,17 +17,26 @@ IPREO Office, Claremont, Cape Town
 ### Agenda:
 
 18h00 - Open for registration
+
 18h00-19h00 - ROAM FREE! Games, networking, drinks & snacks
+
 18h50 - Welcome message
-19h00 - "Fight the entropy" presented by [Louise Perold](https://www.linkedin.com/in/louise-perold-1947528/), House of Test, [@lperold](https://twitter.com/lperold?lang=en)
+
+19h00 - ["Fight the entropy"](https://github.com/cape-town-testing/meetup/tree/master/2018-Q1/Presentations) presented by [Louise Perold](https://www.linkedin.com/in/louise-perold-1947528/), House of Test, [@lperold](https://twitter.com/lperold?lang=en)
+
 19h20 - Three activities run in parallel:
-What’s going on? 	   
-Lightning talks  	   
-Website (ogaats.co.za) testing   	   
-Lean Coffee corner 	   
-19h40 - Visual Regression using the new Headless Chrome browser presented by [Donovan Graham](https://www.linkedin.com/in/donovangraham/), Allan Gray
+
+* Lightning talks  	   
+
+* Website (ogaats.co.za) testing   	   
+
+* Lean Coffee corner 	   
+
+19h40 - [Visual Regression using the new Headless Chrome browser](https://github.com/cape-town-testing/meetup/tree/master/2018-Q1/Presentations#2-visual-regression-using-the-new-headless-chrome-browser) presented by [Donovan Graham](https://www.linkedin.com/in/donovangraham/), Allan Gray
+
 20h00 - Farewell message
-20h05 – until we get kicked out - ROAM FREE! Games, networking, drinks & snacks
+
+20h05 – until we get kicked out! - ROAM FREE! Games, networking, drinks & snacks
 
 ### Winners!:
 
