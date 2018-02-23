@@ -41,7 +41,7 @@ IPREO Office, Claremont, Cape Town
 ### Winners!:
 
 Of the secret hint hunt trail:
-* Donovan
+* Donovan Changfoot
 * Lesley (Global Kinetic)
 * Heather
 
