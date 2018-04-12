@@ -1,16 +1,16 @@
 # The second, quarterly, Cape Town Testing meetup
 
-![T-shirts](https://github.com/cape-town-testing/meetup/blob/master/2017-Q2/CTTM%20Shirts.jpg)
+![T-shirts](https://secure.meetupstatic.com/photos/event/1/b/a/a/highres_470107082.jpeg)
 
-### Date: 
+### Date:
 6 June 2017
 
-### Venue: 
+### Venue:
 The JUMO Tap, Wembley Square, Gardens, Cape Town
 
-![Jumo logo](https://github.com/cape-town-testing/meetup/blob/master/2017-Q2/JUMO%20logo.jpeg)
+![Jumo logo](https://secure.meetupstatic.com/photos/event/1/b/a/b/highres_470107083.jpeg)
 
- 
+
 ### Agenda:
 
 17h00 Registration opens
@@ -34,7 +34,7 @@ The JUMO Tap, Wembley Square, Gardens, Cape Town
 
 **Ethical Hacker of the Quarter** - The grand prize was awarded to <TBA!> for hacking the Mac laptop before all else
 
-**Parking lot calculator** (*#SpoofTheCalc*) - The [most ridiculous fee](https://twitter.com/CapeTownTesting/status/872360062081216512) 
+**Parking lot calculator** (*#SpoofTheCalc*) - The [most ridiculous fee](https://twitter.com/CapeTownTesting/status/872360062081216512)
 generated was found by Evelyn Wicksteed
 [@eve_wicksteed](https://twitter.com/eve_wicksteed) !.  
 
@@ -81,14 +81,14 @@ Proposed ideas/topics for future meetups, as suggested by attendees:
 
 - Submitted by **Susmitha Chinnamalreddy**
   Thank you all!! I enjoyed the meetup and learnt something. See you at the next one...
-  
+
   **Other Feedback solicited on the night:**
-  
+
 - “Liked and enjoyed the meet up. Would it be possible for more interactions in future? Finding out where the audience is  from and what they do? Getting people more comfortable with each other forming more of a community?”
 
 - “Most notable of the latest meetup was the insightful intro into the world of pen testing, the demo / ride along / hack my Mac was a unique way of presenting the topic”
 
-- “Topics had good variety (from strategy -> specific testing techniques); too much Q&A” 
+- “Topics had good variety (from strategy -> specific testing techniques); too much Q&A”
 
 - “I really enjoyed the topic of the brains responses. It was a very interesting take on things and gave me a better way of thinking about my own test strategies. Thanks you Cape Town Test Meet up Team.”
 
@@ -114,4 +114,4 @@ Q4 19th October 2017, hosted by <TBA! We don't have a venue yet. Contact us if y
 ### BONUS - Let's Test 2017 DISCOUNT CODE!
 As a reward for your continued interest and support of the Cape Town Testing meetup, our friends who are organizing Let's Test SA have offered a community discount on your ticket to the conference in November!
 Use the discount code "CTTMEETUP" to receive 10% off the price of your conference ticket, if booked and paid between 1 June and 31 August.
-Terms and conditions: First come, first serve basis on a limited number of rooms (only 4 x sharing rooms & 5 x single rooms available). 
+Terms and conditions: First come, first serve basis on a limited number of rooms (only 4 x sharing rooms & 5 x single rooms available).

@@ -1,13 +1,13 @@
 # Puzzle Day 2017!
 
-![Puzzle Day Poster](https://github.com/cape-town-testing/meetup/blob/master/2017-Puzzle-Day/Puzzle%20Day%20Poster.jpg)
+![Puzzle Day Poster](https://secure.meetupstatic.com/photos/event/1/b/a/8/highres_470107080.jpeg)
 
 ### Date
 1 April 2017
 
-### Venue: 
+### Venue:
 The Honey Badger (91 Loop Street)
- 
+
 ### Agenda:
 ·  09h30 for  10h00 start
 
@@ -29,9 +29,9 @@ We ultimately hosted 3 teams of the world-wide total of 297 teams comprising of 
 
 In the follow-up world-wide survey of the event, the majority of teams (60.9%) felt that the puzzles were too hard, indicative of the number of puzzles solved globally - 62% of teams managed to solve only 2 puzzles or less, with the average number of puzzles solved being 2.5 puzzles per team!
 
-![Puzzle Day Poster](https://github.com/cape-town-testing/meetup/blob/master/2017-Puzzle-Day/cttm1.png)
-![Puzzle Day Poster](https://github.com/cape-town-testing/meetup/blob/master/2017-Puzzle-Day/cttm2.png)
-![Puzzle Day Poster](https://github.com/cape-town-testing/meetup/blob/master/2017-Puzzle-Day/cttm3.png)
+![Puzzle Day Poster](https://secure.meetupstatic.com/photos/event/8/c/5/8/highres_460595928.jpeg)
+![Puzzle Day Poster](https://secure.meetupstatic.com/photos/event/8/c/5/e/highres_460595934.jpeg)
+![Puzzle Day Poster](https://secure.meetupstatic.com/photos/event/8/c/e/c/highres_460596076.jpeg)
 
 
 ### Winners:
@@ -44,13 +44,10 @@ Of the teams who participated, an honourable mention goes to the following Cape 
 
 And an extra special mention goes out to Cape Town Testing’s Team RICK, who submitted 4/8 correct solutions, placing them in the top 20% globally! Well done to: Robert Herbst, Irfaan Imamdin, Clarissa Johnston and Karin Herbst!
 
-![Puzzle Day Poster](https://github.com/cape-town-testing/meetup/blob/master/2017-Puzzle-Day/cttm4.png)
+![Puzzle Day Poster](https://secure.meetupstatic.com/photos/event/8/c/f/0/highres_460596080.jpeg)
 
 ### Resources:
 
 More information about the 2017 CS50x Puzzle Day can be found [HERE](https://medium.com/@cs50/cs50x-puzzle-day-2017-around-the-world-4c2aa044d1f7)
 
 Check out the solutions to all of the puzzles [HERE](https://www.youtube.com/watch?list=PLhQjrBD2T382_GJT2NRgEQ1vA9K_LqJbe&v=fb-XgfQSwME)
-
-
-
