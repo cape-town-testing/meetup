@@ -6,7 +6,7 @@
 
 "Do you love what you do? My guess is that because you are a member of this meetup, you are either passionate about testing or passionate about learning more about testing... but are we doing enough? What can we and should we be doing to further our craft."
 
-#### Presentation video: _Coming soon!_
+#### Presentation video: https://www.youtube.com/watch?v=WkW9HsqEwRo
 
 #### [Presentation slides](Fight_the_Entropy.pptx)
 
@@ -65,7 +65,7 @@ Don will be taking us through the basic intricacies of visual regression, which 
 
 Start playing with visual regression by setting up our demo, [the project is available on our meetup GitHub page, here](https://github.com/cape-town-testing/tooling/tree/master/visual-regression).
 
-#### Presentation video: _Coming soon!_
+#### Presentation video: https://www.youtube.com/watch?v=1hvPHxr5HRE
 
 ####  [Presentation slides](Automate_Visual_Regression.ppt)
 
