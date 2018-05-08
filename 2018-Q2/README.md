@@ -17,7 +17,7 @@ Kurtosys Office, Mont Clare Place, 2nd Floor 35 Main Road, Claremont, Cape Town.
 
 18h00 - Open for registration
 
-18h00-19h00 - ROAM FREE! Games, networking, drinks & snacks
+18h00-18h45 - ROAM FREE! Games, networking, drinks & snacks
 
 18h45 - Welcome
 
