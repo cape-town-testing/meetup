@@ -15,7 +15,7 @@ Join The Empathy Labradors (Nicola du Toit and Steve Barnett) for a journey thro
 
 #### [Presentation slides](https://speakerdeck.com/stevebarnett/inclusive-design-more-heart-more-humans-1)
 
-#### Summary notes of this talk: Coming soon!
+#### [Summary notes of this talk](Inclusive_Design.docx) Thanks to Dave!
 
 
 ## 2. "How Does Your Crow Fly?" 
@@ -27,4 +27,4 @@ Regardless of your role, Robert is going to challenge your thoughts on how you a
 
 ####  [Presentation slides](How_Does_Your_Crow_Fly.pptx)
 
-#### Summary notes of this talk: Coming soon!
+#### [Summary notes of this talk](How_does_your_crow_fly.docx)
