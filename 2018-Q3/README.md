@@ -35,7 +35,7 @@ _With a history in the BI tech space, and more recent passion in human relations
 
 _Get ready for some stories from the trenches of effecting real transformation! A published author and celebrated community member who is actively working to bring transformation to the tech industry, we are privileged to bring you Rogeema Kenny._
 
-_Rogeema graduated with a B.Sc in Electrical Engineering from UCT in 2005, and spent 10 years in the power and energy sector, before moving into development consulting where she now works as a consultant in the Transport practice at Pegasys. She is very passionate about getting more women involved in technology fields. Some of her achievements and accolades include:_
+_Rogeema graduated with a B. Sc in Electrical Engineering from UCT in 2005, and spent 10 years in the power and energy sector, before moving into development consulting where she now works as a consultant in the Transport practice at Pegasys. She is very passionate about getting more women involved in technology fields. Some of her achievements and accolades include:_
 - _Bestselling co-author of the motivational book of short stories, Empowered – part of the Wake Up, Live the Life You Love series._
 - _Mozilla Tech Speaker – graduated in 2017_
 - _Mentor – certified by Mentoring Standard, the only certifying body of it's kind in the world_
@@ -47,9 +47,6 @@ _Rogeema graduated with a B.Sc in Electrical Engineering from UCT in 2005, and s
 20h05: Closing message
 
 20h10 - until we get kicked out: Open time: Networking, drinks & games
-
-MAKE QUALITY FRIENDS,
-MAKE QUALITY SOFTWARE.
 
 ### Next meetup:
 
