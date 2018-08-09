@@ -32,10 +32,10 @@
 ##### [Summary notes](Lightning_Talks_3_Not_Every_Day.md)
 
 ## 3. "Inclusion in Tech" 
-### Rogeema Kenny @rogeema
+### Rogeema Kenny [@rogeema](https://twitter.com/rogeema)
 
 #### Presentation video: [Coming soon!](#)
 
-####  [Presentation slides](Inclusion_in_Tech.pptx)
+#### [Presentation slides](Inclusion_in_Tech.pptx)
 
-#### [Summary notes of this talk -  coming soon!](#)
+#### [Summary notes](Inclusion_in_Tech.md)
