@@ -1,5 +1,5 @@
 # 2018-Q3 Presentations
-
+A note on presentation videos: Due to technical difficulties we have no videosfor this quarter's meetup, apologies!
 ## Introduction
 ### Rachel Bolton
 
@@ -8,7 +8,7 @@
 ## 1. "Keynote: Inclusion and Transformation in Tech" 
 ### Christelle Martin
 
-#### Presentation video: [Coming soon!](#)
+#### 
 
 #### [Summary notes](Keynote_Transformation_in_Tech.md)
 
@@ -16,25 +16,21 @@
 ### ~5~ 2 Things I Love About Agile
 #### Bee Sharwood
 
-##### Presentation video: [Coming soon!](#)
 ##### [Summary notes](Lightning_Talks_1_Love_Agile.md)
 
 ### Rebranding I.T.
 #### Faith Agwang
 
-##### Presentation video: [Coming soon!](#)
 ##### [Summary notes](Lightning_Talks_2_Rebranding_IT.md)
 
 ### Not every day is a bad day
 #### Nicol Vojacek
 
-##### Presentation video: [Coming soon!](#)
 ##### [Summary notes](Lightning_Talks_3_Not_Every_Day.md)
 
 ## 3. "Inclusion in Tech" 
 ### Rogeema Kenny [@rogeema](https://twitter.com/rogeema)
 
-#### Presentation video: [Coming soon!](#)
 
 #### [Presentation slides](Inclusion_in_Tech.pptx)
 
