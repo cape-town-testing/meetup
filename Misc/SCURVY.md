@@ -1,5 +1,5 @@
 "Seek the hidden colourful puzzle box...
-behind the cistern in the wenches bathroom
+around the sound desk in the stage area
 ...solve the puzzle,
 obey it's command,
 and carry the puzzle box with ye from now on."
