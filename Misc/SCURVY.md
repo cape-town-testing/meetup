@@ -1,11 +1,6 @@
-_"Seek the hidden colourful puzzle box..._
-
-_behind the cistern in the wenches bathroom_
-
-_...solve the puzzle,_
-
-_obey it's command,_
-
-_and carry the puzzle box with ye from now on."_
-
+"Seek the hidden colourful puzzle box...
+behind the cistern in the wenches bathroom
+...solve the puzzle,
+obey it's command,
+and carry the puzzle box with ye from now on."
 ~ Lance, The Cyber Pirate
