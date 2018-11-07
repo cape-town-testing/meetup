@@ -23,22 +23,22 @@ Registration is open
 ROAM FREE: Make some friends, play some games, win cool stuff!
 Choose your own adventure:
 * Climb the "Keep Talking and Nobody Explodes" leaderboard (https://www.youtube.com/watch?v=1-MM1UTtjyU; a co-op bomb diffusal video game) by the end of the night to win sweet swag.
-* Get involved in Allan Gray's brand new [Sphero] (https://medium.com/@adrienne.tacke/sphero-bolt-javascript-endless-possibilities-7690dea2d42e) stall.
+* Get involved in Allan Gray's brand new [Sphero](https://medium.com/@adrienne.tacke/sphero-bolt-javascript-endless-possibilities-7690dea2d42e) stall.
 * Join a casual problem solving games table.
 * Find the end of the clue trail...but first, can you find the start?
 * Grab a drink and a snack!
 
 18:30
 Welcome message from the MC - Ross Fernhold of Cape Town Testing.
-A word from our awesome hosts, [ZaiLab] (https://zailab.com).
+A word from our awesome hosts, [ZaiLab](https://zailab.com).
 
 18:40 – 19:00
-"Burnout" an experiential talk by Nicolaas Kotze [@NJKotze] (https://twitter.com/NJKotze)
+"Burnout" an experiential talk by Nicolaas Kotze [@NJKotze](https://twitter.com/NJKotze)
 
 19:00 – 19:40
 Our own customized take on Facebook's Capture the Flag server (https://github.com/facebook/fbctf)
 This team-based fast-paced competition consists of questions on various topics including testing and tech pop culture, terminology, people and history, logic puzzles, practical knowledge, and much more
-Win an epic prize hamper including a LIMITED EDITION [OfferZen] (https://www.offerzen.com) HOODIE!
+Win an epic prize hamper including a LIMITED EDITION [OfferZen](https://www.offerzen.com) HOODIE!
 You'll need your laptop or tablet, and pen & paper!
 
 Note: We will have a lean coffee session running parallel to the Capture the Flag game above, for the less-competitive.
