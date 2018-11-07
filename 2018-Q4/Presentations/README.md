@@ -3,35 +3,19 @@
 ## Introduction
 ### Ross Fernhold
 
-#### [Summary notes](Introduction.md)
+## 1. "Burnout"
+### Nicolaas Kotze [@NJKotze](https://twitter.com/NJKotze)
 
-## 1. "Keynote: Inclusion and Transformation in Tech"
-### Christelle Martin
+#### [Summary notes](Burnout.md)
+#### [Presentation slides](Burnout - FINAL.pptx)
 
-####
+## 2. "Now that Customers are taking Security Seriously, how does it affect us?"
+#### Salvin Naidoo
 
-#### [Summary notes](Keynote_Transformation_in_Tech.md)
+##### [Summary notes](Security.md)
+#### [Presentation slides](Now that Customers are taking Security Seriously, how does it affect us.pptx)
 
-## 2. Lightning Talks
-### ~5~ 2 Things I Love About Agile
-#### Bee Sharwood
+## 3. "Capture the Flag"
+### Nicolaas Kotze [@NJKotze](https://twitter.com/NJKotze)
 
-##### [Summary notes](Lightning_Talks_1_Love_Agile.md)
-
-### Rebranding I.T.
-#### Faith Agwang
-
-##### [Summary notes](Lightning_Talks_2_Rebranding_IT.md)
-
-### Not every day is a bad day
-#### Nicol Vojacek
-
-##### [Summary notes](Lightning_Talks_3_Not_Every_Day.md)
-
-## 3. "Inclusion in Tech"
-### Rogeema Kenny [@rogeema](https://twitter.com/rogeema)
-
-
-#### [Presentation slides](Inclusion_in_Tech.pptx)
-
-#### [Summary notes](Inclusion_in_Tech.md)
+#### [Presentation slides](CTTMeetup_FBCTF_Introduction_FINAL.pptx)
