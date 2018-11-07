@@ -1,6 +1,7 @@
-### 2018.Q4
-# The eight, quarterly, Cape Town Testing meetup
-# Celebrating 2 years of quality events and quality people
+# 2018.Q4
+
+## The eighth, quarterly, Cape Town Testing meetup
+## Celebrating 2 years of quality events and quality people
 
 
 ## MAKE QUALITY FRIENDS, MAKE QUALITY SOFTWARE
@@ -32,7 +33,7 @@ Welcome message from the MC - Ross Fernhold of Cape Town Testing.
 A word from our awesome hosts, ZaiLab (https://zailab.com).
 
 18:40 – 19:00
-"Burnout" an experiential talk by Nicolaas Kotze ![@NJKotze] (https://twitter.com/NJKotze)
+"Burnout" an experiential talk by Nicolaas Kotze @NJKotze (https://twitter.com/NJKotze)
 
 19:00 – 19:40
 Our own customized take on Facebook's Capture the Flag server (https://github.com/facebook/fbctf)
@@ -56,7 +57,7 @@ ZaiLab, Allan Gray, and OfferZen
 
 ### Next meetup:
 
-2018.Q4 8th November 2018, see the [meetup.com event](https://www.meetup.com/cape-town-testing-meetup/events/) for full details.
+2019.Q1 21st February 2019, see the [meetup.com event](https://www.meetup.com/cape-town-testing-meetup/events/) for full details.
 
 MAKE QUALITY FRIENDS,
 MAKE QUALITY SOFTWARE.

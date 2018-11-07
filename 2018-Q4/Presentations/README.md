@@ -1,14 +1,14 @@
-# 2018-Q3 Presentations
-A note on presentation videos: Due to technical difficulties we have no videosfor this quarter's meetup, apologies!
+# 2018-Q4 Presentations
+
 ## Introduction
-### Rachel Bolton
+### Ross Fernhold
 
 #### [Summary notes](Introduction.md)
 
-## 1. "Keynote: Inclusion and Transformation in Tech" 
+## 1. "Keynote: Inclusion and Transformation in Tech"
 ### Christelle Martin
 
-#### 
+####
 
 #### [Summary notes](Keynote_Transformation_in_Tech.md)
 
@@ -28,7 +28,7 @@ A note on presentation videos: Due to technical difficulties we have no videosfo
 
 ##### [Summary notes](Lightning_Talks_3_Not_Every_Day.md)
 
-## 3. "Inclusion in Tech" 
+## 3. "Inclusion in Tech"
 ### Rogeema Kenny [@rogeema](https://twitter.com/rogeema)
 
 
