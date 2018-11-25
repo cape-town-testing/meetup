@@ -5,13 +5,13 @@
 2. This is not a lecture - rather hope to give people a view into what they haven't seen before
 3. __Security breaches__
 	1. Happens all the time - even if we don't know about it
-  2. Not limited to a specific sector - different industries, different data
-  3. Very different profile for attackers - using vulnerabilities that haven't been used before - chaining multiple vulnerabilities together
-  4. Not only looking to sell data - but also to sell vulnerabilities
+	2. Not limited to a specific sector - different industries, different data
+	3. Very different profile for attackers - using vulnerabilities that haven't been used before - chaining multiple vulnerabilities together
+	4. Not only looking to sell data - but also to sell vulnerabilities
 4. Customers want to know what frameworks we're using (e.g. OWASP) to protect data
 	1. CSG team has had external training to kick start journey in this space 
-  2. OWASP and SAMM - check definitions on wikipedia
-  3. used to determine where they are right now and where they can improve - questionaires out to whole organisation to learn levels of maturity
+	2. OWASP and SAMM - check definitions on wikipedia
+	3. used to determine where they are right now and where they can improve - questionaires out to whole organisation to learn levels of maturity
 5. CSG offer software-as-a-service, but cape town mainly operate under licensing
 
 >"A computer lets you make more mistakes faster than any other invention with the possible exceptions of handguns and Tequila."
@@ -21,9 +21,9 @@ Mitch Ratcliffe
 7. Other roles like analysis and test must also be security aware
 8. "How can I chapion seuciry in my space?"
 	1. If policy isn't explicit about how to deal with security vulnerablities - could have legislative penalties and reputational damage
-  2. Legal issues - GDPR and POPI
-  3. Avoid circular discussions when speaking to people who are looking at things from conflicting angles
-  4. Check CVSS (common vulnerabilities scoring system)
+	2. Legal issues - GDPR and POPI
+	3. Avoid circular discussions when speaking to people who are looking at things from conflicting angles
+	4. Check CVSS (common vulnerabilities scoring system)
 9. In the coming years, delivery teams will have to be more security conscious in all domains (analysis, development and test)
 10. Think about threat models - need to upskill ourselves.  Attack simulations need much upskilling
 11. Get to know the toolsets - Wirshark, Kali, Fiddler, OWASP, ZAP
