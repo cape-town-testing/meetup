@@ -13,35 +13,21 @@
   2. OWASP and SAMM - check definitions on wikipedia
   3. used to determine where they are right now and where they can improve - questionaires out to whole organisation to learn levels of maturity
 5. CSG offer software-as-a-service, but cape town mainly operate under licensing
+
 >"A computer lets you make more mistakes faster than any other invention with the possible exceptions of handguns and Tequila."
 Mitch Ratcliffe
 
-
-Security isn't just a developers job.  have scrum teams. collective ownership.
-
-other rolses like analysis and test must also be security aware
-
-"How can i chapion seuciry in my space"
-
-if policy isn't explicit about how to deal with security vulnerablities - could have legislative penalties and reputational damage
-
-legal issues - GDPR and POPI
-
-Avoid circular discussions when speaking to people who are looking at things from conflicting angles
-
-Check CVSS (common vulnerabilities scoring system)
-
-
-in the coming years, delivery teams will have to be more security conscious in all domains (analysis dev and test)
-
-Think about threat models - need to upskill ourselves.  Attack simulations need much upskilling
-
-
-Get to tknow the toolsets - Wirshark, Kali fiddler OWASP ZAP
-
-The course from pluralsight - hack yourself first - very useful course
-
-
-Question - smaller companies won't have budget to make security a priority.  
-Answer - they have a team at corporate level to address this.  Not about being perfect.  Its about being ethical.  POPI and GDPR will have to be a focus - as its law
-Needs to become a part of what we're doing.  It isn't that difficult once you get started.  OWASP is a really good resource
+6. Security isn't just a developers job.  Have scrum teams - collective ownership.
+7. Other roles like analysis and test must also be security aware
+8. "How can I chapion seuciry in my space?"
+	1. If policy isn't explicit about how to deal with security vulnerablities - could have legislative penalties and reputational damage
+  2. Legal issues - GDPR and POPI
+  3. Avoid circular discussions when speaking to people who are looking at things from conflicting angles
+  4. Check CVSS (common vulnerabilities scoring system)
+9. In the coming years, delivery teams will have to be more security conscious in all domains (analysis, development and test)
+10. Think about threat models - need to upskill ourselves.  Attack simulations need much upskilling
+11. Get to know the toolsets - Wirshark, Kali, Fiddler, OWASP, ZAP
+12. The course from Pluralsight - __Hack yourself first__ - very useful course
+13. __Question__: Smaller companies won't have budget to make security a priority.  What can they do?
+  1. __Answer__: CSG have a team at corporate level to address this.  Not about being perfect.  Its about being ethical.  POPI and GDPR will have to be a focus - as its law
+14. Needs to become a part of what we're doing.  It isn't that difficult once you get started.  OWASP is a really good resource
