@@ -1,6 +1,8 @@
 # 2. "Automation In Sprint" | 2018-Q4 Presentations
 ## Shekhar Ramphal
 
+[Watch the video](https://youtu.be/iTKeWaKYa1Q)
+
 1. End up running with man down in team; full stack team - need DB, UI, etc.
 2. CI brings own challenges
 	1. Hours of overtime to retro fit tests
