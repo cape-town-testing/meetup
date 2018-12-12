@@ -3,7 +3,7 @@
 
 [View the presentation slides](https://github.com/cape-town-testing/meetup/blob/1f6f37a3fac700a21e512657693471caad0e87e7/2018-Q4/Presentations/Burnout.pptx?raw=true)
 
-[View the video](http://youtu.be/-gdt8BPW8HY)
+[Watch the video](http://youtu.be/-gdt8BPW8HY)
 
 1. Many struggle with burnout now.  It was first diagnosed in the 70s.  Japanese have a word for death caused by overwork or job-related exhaustion: __Karoshi__
 2. __Disclaimer__: This is not medical advice.  Seek professional help if the content of this talk resonates with you
