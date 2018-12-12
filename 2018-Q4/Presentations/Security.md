@@ -1,6 +1,8 @@
 # 3. "Now that Customers are taking Security Seriously, how does it affect us?" | 2018-Q4 Presentations
 ## Salvin Naidoo 
 
+[Watch the video](http://youtu.be/DTHLuHwG4f8)
+
 1. Many try to pretend that security issues don't exist - but it's okay.  It's one of those things we have to do 
 2. This is not a lecture - rather hope to give people a view into what they haven't seen before
 3. __Security breaches__
