@@ -9,7 +9,12 @@
 #### [Summary notes](Burnout.md)
 #### [Presentation slides](Burnout.pptx)
 
-## 2. "Now that Customers are taking Security Seriously, how does it affect us?"
+## 2. "Lightning Talk - Automation In Sprint"
+#### Shekhar Ramphal
+
+##### [Summary notes](Automation_In_Sprint.md)
+
+## 3. "Now that Customers are taking Security Seriously, how does it affect us?"
 #### Salvin Naidoo
 
 ##### [Summary notes](Security.md)
