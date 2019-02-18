@@ -10,8 +10,11 @@ Through my stories of the successes and failures experienced in running the meet
 * How to harness the heuristic we use to keep our audience engaged and coming back for more: The four keys to fun being Friendship, Novelty, Challenge and Meaning.
 Join me to find out what you’re missing out on in your own backyard!
 
+[slide deck]() - link coming soon
+
 ##2 "Join the final revolution in functional testing"
 ##Ben Harper
 It has been said "it's just so good it's the last thing you'll ever download" 
-[@rogojin](https://twitter.com/rogojin) on twitter, ostensibly a graphics programmer. Not sure what else to say about myself
+[@rogojin](https://twitter.com/rogojin) on twitter, ostensibly a graphics programmer.
+
 [Slide deck](https://drive.google.com/open?id=106gQtnu7ZLGKC4Gx1h4tDhTkizGHTz-G)
