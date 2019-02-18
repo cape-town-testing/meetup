@@ -45,7 +45,7 @@ Capture the Flag
 
 Ben Harper  
 "Join the final revolution in functional testing"
-"it's just so good it's the last thing you'll everdownload"
+> "it's just so good it's the last thing you'll ever download"  
 Anonymous
 
 **20:25**
