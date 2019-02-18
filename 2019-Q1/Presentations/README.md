@@ -1,5 +1,7 @@
 #2019-Q1 Presentations
+
 ##1 “Local communities are an endless source of inspirational testing ideas, perspective & support. At this session you’ll be inspired to tap into and level-up your involvement in your local meetup.” 
+
 ##Matthew Broadly 
 Advance your testing by connecting with your peers! An energized local testing community is an amazing platform for sharing wild and wacky testing philosophies that you would never have thought of. 
 In talk you’ll hear about how you can fire-up and tap into your local testing community for an endless source of inspirational testing ideas...and meaningful community connection!
@@ -13,6 +15,7 @@ Join me to find out what you’re missing out on in your own backyard!
 [slide deck]() - link coming soon
 
 ##2 "Join the final revolution in functional testing"
+
 ##Ben Harper
 It has been said "it's just so good it's the last thing you'll ever download" 
 [@rogojin](https://twitter.com/rogojin) on twitter, ostensibly a graphics programmer.
