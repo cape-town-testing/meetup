@@ -11,7 +11,7 @@
 **Takealot Central Office**
 10 Rua Vasco Da Gama Plain · Cape Town
 
-![takealot](https://drive.google.com/open?id=1dZ2-l0puaL-tbEgtJDnYq8NwlgX_FVBc)
+![takealot](https://secure.meetupstatic.com/photos/event/4/0/9/0/highres_478816528.jpeg)
 
 ### Programme:
 **17:30**
