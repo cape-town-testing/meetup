@@ -11,6 +11,8 @@
 **Takealot Central Office**
 10 Rua Vasco Da Gama Plain · Cape Town
 
+![takealot](https://secure.meetupstatic.com/photos/event/4/0/9/0/highres_478816528.jpeg)
+
 ### Programme:
 **17:30**
   Registration open
@@ -43,7 +45,7 @@ Capture the Flag
 
 **Tech talk**
 
-Ben Harper  
+Ben Harper [@rogojin](https://twitter.com/rogojin)  
 "Join the final revolution in functional testing"
 > "it's just so good it's the last thing you'll ever download"  
 Anonymous
