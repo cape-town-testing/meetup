@@ -5,7 +5,7 @@
 ## MAKE QUALITY FRIENDS, MAKE QUALITY SOFTWARE
 
 ### Date:
-19 February 2019 
+19 February 2019
 
 ### Venue:
 **Takealot Central Office**
@@ -31,7 +31,7 @@ Find the end of the clue trail...but first, can you find the start?
 **Experiential talk**
 
 Matthew Broadly - [@CapeTownTester](https://twitter.comCapeTownTester)   
-“Local communities are an endless source ofinspirational testing ideas, perspective & support. Atthis session you’ll be inspired to tap into and level-upyour involvement in your local meetup.”
+“Local communities are an endless source of inspirational testing ideas, perspective & support. At this session you’ll be inspired to tap into and level-up your involvement in your local meetup.”
 
 **18:55**
 
