@@ -13,7 +13,9 @@ Through my stories of the successes and failures experienced in running the meet
 
 Join me to find out what you’re missing out on in your own backyard!
 
-[slide deck](https://drive.google.com/file/d/1eVqtmKWp_qxCuR42sA8-PZh-GwFhR1Em/view?usp=sharing) 
+[Slide deck](https://drive.google.com/file/d/1eVqtmKWp_qxCuR42sA8-PZh-GwFhR1Em/view?usp=sharing)
+
+[Summary notes](NOTES_1_MatthewBroadley_LocalCommunities.md)
 
 ## 2 "Join the final revolution in functional testing"
 
@@ -22,3 +24,5 @@ It has been said "it's just so good it's the last thing you'll ever download"
 [@rogojin](https://twitter.com/rogojin) on twitter, ostensibly a graphics programmer.
 
 [Slide deck](https://drive.google.com/open?id=106gQtnu7ZLGKC4Gx1h4tDhTkizGHTz-G)
+
+[Summary notes](NOTES_2_BenHarper_FinalRevolution.md)
