@@ -17,6 +17,8 @@ Join me to find out what you’re missing out on in your own backyard!
 
 [Summary notes](NOTES_1_MatthewBroadley_LocalCommunities.md)
 
+[Video](https://youtu.be/d-jrqjyUjzk)
+
 ## 2 "Join the final revolution in functional testing"
 
 ## Ben Harper
@@ -26,3 +28,5 @@ It has been said "it's just so good it's the last thing you'll ever download"
 [Slide deck](https://drive.google.com/open?id=106gQtnu7ZLGKC4Gx1h4tDhTkizGHTz-G)
 
 [Summary notes](NOTES_2_BenHarper_FinalRevolution.md)
+
+[Video](https://youtu.be/AZtOsQWnXzQ)
