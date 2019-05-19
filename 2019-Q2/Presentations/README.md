@@ -1,6 +1,6 @@
 # 2019-Q2 Presentations
 
-## 1 Python developer Heather Williams talks to us about the journey she has been on  
+## 1 Python developer; Heather Williams talks to us about the journey she has been on  
 
 ### Heather Williams [Linkedin](https://www.linkedin.com/in/heatherjwilliams/), [Personal website](https://heatherjw.github.io/)
 A developers perspective on the big wide world of testing in the wild. Heather walks us through all the things she has learned about testing whilst working at Siyavula Education, from TDD and BDD to integration testing and the struggle of deciding if you should test the test. An engaging and insightful perspective of why we test, regardless of who is doing the testing. 
