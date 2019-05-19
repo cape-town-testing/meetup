@@ -50,6 +50,7 @@ Heather Willams presented a talk for anyone interested in testing real code with
 
 Blanche Carstens [@blanchecarstens](https://twitter.com/BlancheCarstens)  
 Calvin Moore 
+
 Cape Town Testing's very own Blanche Carstens and her fellow colleague, Calvin Moore (Allan Gray), will be giving a talk-version of a workshop they are going to present on the Jest Testing framework at Nordic Testing Days, which is being later in May in Estonia!
 
 **21h05**
