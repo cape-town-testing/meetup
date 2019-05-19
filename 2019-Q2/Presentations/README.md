@@ -17,4 +17,4 @@ Our front end is written in JavaScript & React, which is a JavaScript library fo
 **Slide deck** Coming soon
 
 ## 3 Video:
-Unfortunately we had another technical difficulty and there is no sound with the videos :( 
+Unfortunately due to some technical difficulties the recordings have no sound :(  
