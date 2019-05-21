@@ -32,7 +32,7 @@ MC, David Coomber, Cape Town TestingHost, Greg Walsh on behalf of TFG InfoTec
 
 **Experiential talk: Testing in the Wild**
 
-Heather Williams   
+**Heather Williams**
 Heather Willams presented a talk for anyone interested in testing real code with real deadlines! In this talk Test Driven Development (TDD) was be explored along with alternatives to TDD. Those who attended have a greater understanding of how to apply one of the tools of testing in the real world and how to ensure they have time in the development cycle to test their code.
 
 **19:35**
@@ -48,8 +48,9 @@ Heather Willams presented a talk for anyone interested in testing real code with
 
 **Talk**
 
-Blanche Carstens [@blanchecarstens](https://twitter.com/BlancheCarstens)  
-Calvin Moore 
+**Blanche Carstens** [@blanchecarstens](https://twitter.com/BlancheCarstens)  
+**Calvin Moore**  [@cmoorevin](https://twitter.com/cmoorevin)
+
 Cape Town Testing's very own Blanche Carstens and her fellow colleague, Calvin Moore (Allan Gray), will be giving a talk-version of a workshop they are going to present on the Jest Testing framework at Nordic Testing Days, which is being later in May in Estonia!
 
 **21h05**

@@ -14,7 +14,7 @@ Our front end is written in JavaScript & React, which is a JavaScript library fo
 
 [@blanchecarstens](https://twitter.com/BlancheCarstens)
 
-**Slide deck** Coming soon
+[Slide deck](https://drive.google.com/file/d/0B6oLpqBUioStR29YSkgzR2stUkZOUk96T0xXZ3BSMTNJZWxJ/view?usp=sharing)
 
 ## 3 Video:
 Unfortunately we had another technical difficulty and there is no sound with the videos :( 
