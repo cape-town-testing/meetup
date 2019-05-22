@@ -16,5 +16,5 @@ In keeping with our alignment with the Let's Test conference; herewith are their
 
 You don’t need to hit all the points above, but if you don’t hit at least a couple, you’re in trouble. 
 Once you have made your submission we will review it and be in contact. If we like what you've got we'll arrange a dry run at a time convenient to you.
-Please submit your proposal to:  [capetowntesting@googlegroups.com](mailto:capetowntesting@googlegroups.com)
+Please submit your proposal to:  [capetowntestingmeetup@gmail.com](mailto:capetowntestingmeetup@gmail.com)
 We look forward to seeing some awesome/crazy input from you!
