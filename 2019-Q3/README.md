@@ -47,6 +47,7 @@ In today’s highly competitive tech industry, recruitment strategies tend towar
   <dd>Speed Networking: Put a name to that face!  Get to know yourcommunity colleagues</dd>
 </dl>
 
+
 **19h50**
 
 **Talk: “Data migration and data warehouse testing” (25 mins + questions)**
@@ -58,7 +59,8 @@ testing in these high data volume environments is a challenge. The talk
 outlines an approach to test automation for this type of application and includes a
 demo of an in-house developed CLI test tool.
 
-[Presentation slides](Presentations/cpttq32019-fm-etl-tool.pdf)
+[Presentation slides](cpttq32019-fm-etl-tool.pdf)
+
 <Live talk summary notes coming soon!>
 
 
