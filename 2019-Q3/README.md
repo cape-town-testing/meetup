@@ -63,8 +63,8 @@ testing in these high data volume environments is a challenge. The talk
 outlines an approach to test automation for this type of application and includes a
 demo of an in-house developed CLI test tool.
 
-Presentation slides (coming soon!)
-
+[Presentation slides](cpttq32019-fm-test-tool.pdf)
+ 
 <Live talk summary notes coming soon!>
 
 
