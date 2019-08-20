@@ -37,7 +37,7 @@ If high performing individuals working together rarely guarantees a high perform
 
 In today’s highly competitive tech industry, recruitment strategies tend towards snatching any and everyone who appears ‘high performing’ on paper, rather than finding the right fit for the vacancy. And yet, for the most part, high performing individuals put together rarely guarantee high performing teams. This talk takes a look at some trusted, research-based core elements of high performing teams and investigates how we can begin introducing them into our own work ecosystems.
 
-<Live talk notes coming soon! Brian did not present with slides.>
+[Live talk notes](https://github.com/cape-town-testing/meetup/blob/master/2019-Q3/Presentations.md#talk-1-team-psychological-safety--brian-van-vuuren)
 
 **19h05**
 
@@ -65,7 +65,7 @@ demo of an in-house developed CLI test tool.
 
 [Presentation slides](cpttq32019-fm-test-tool.pdf)
  
-<Live talk summary notes coming soon!>
+[Live talk summary notes - click here!](https://github.com/cape-town-testing/meetup/blob/master/2019-Q3/Presentations.md#talk-2-data-migration-and-data-warehouse-testing--francois-marais)
 
 
 **20h20**
