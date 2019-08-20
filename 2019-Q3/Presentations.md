@@ -1,6 +1,6 @@
 # Cape Town Testing Meetup - Q3 2019
-## Notes
-#### Talk 1: Team Psychological Safety – Brian van Vuuren
+## Talk Summary Notes
+# Talk 1: Team Psychological Safety – Brian van Vuuren
 ##### INTRO
 * Daily commute from Stellenbosch to Allan Grey
 * New role / new position as a Frontend Developer / New friends / New life
