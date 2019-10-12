@@ -16,3 +16,4 @@
 * https://youtu.be/78rPt0RsosQ Counterintuitive Secret to Fun
 ### Lightning Talks
 * https://icodegorilla.github.io/tooling/RunMe.html Publicly available lightning talk timer
+* A great 99 second lightning talk "Choose Not To Be A Software Testing Hero" https://www.ministryoftesting.com/news/choose-not-to-be-a-testing-hero
