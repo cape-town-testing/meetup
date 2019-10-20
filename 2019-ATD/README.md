@@ -1,6 +1,6 @@
 # The first ever Agile Testing Days meetup
 
-![This is not a workshop, _this_ is a testing meetup](https://github.com/cape-town-testing/meetup/tree/master/2019-ATD/tinawtiaTM.jpg)
+![This is not a workshop, _this_ is a testing meetup](https://github.com/cape-town-testing/meetup/blob/master/2019-ATD/tinawtiaTM.jpg)
 
 ### [This is not a workshop, _this_ is a testing meetup](https://agiletestingdays.com/2019/session/warning-this-is-not-a-workshop-this-is-a-testing-meetup/) (Don’t say I didn’t warn you!)
 
