@@ -31,9 +31,7 @@ Host, Craig Risi on behalf of Allan Gray
 
 **Talk: "The Testing Profession - the good, the bad and the ugly: Paul Holland”**
 
-[Presentation slides](https://github.com/cape-town-testing/meetup/blob/master/2019-Q4/The-Testing-Profession-The good-the-bad-and-the-ugly.pdf)
-
-[Live talk notes](https://github.com/cape-town-testing/meetup/blob/master/2019-Q4/Presentations.md#TBC)
+[Presentation slides](https://github.com/cape-town-testing/meetup/blob/master/2019-Q4/The-Testing-Profession-The-good-the-bad-and-the-ugly.pdf)
 
 **19h15**
 
