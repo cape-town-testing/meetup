@@ -31,7 +31,7 @@ In 2019, when La La Land was mistakenly announced as the Oscar winner for Best P
 that the very system put in place to prevent such an occurrence was what ultimately caused the worst public failing in the Academy's history.
 How is it that simply adding safety to a complex system can become the very act that causes those systems to fail? 
 In this talk, we will discuss a number of widely studied failures and catastrophes caused by so-called safety systems and what the implications are for modern software systems.
-In particular we'll explore the dogma behind "monitor all the things" and ask the question "Does this make as safer or are we worse off than before?"
+In particular we'll explore the dogma behind "monitor all the things" and ask the question "Does this make us safer or are we worse off than before?"
 
 [Presentation slides - coming soon]()
 
