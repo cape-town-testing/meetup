@@ -1,0 +1,505 @@
+{
+	"info": {
+		"_postman_id": "ef40488f-9499-4db2-b5f8-9640c3339674",
+		"name": "Restful Booker",
+		"description": "https://restful-booker.herokuapp.com/apidoc/index.html",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Auth",
+			"item": [
+				{
+					"name": "Create Token",
+					"event": [
+						{
+							"listen": "prerequest",
+							"script": {
+								"id": "272d3e1c-1acd-4fa4-b2ff-66f118327199",
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						},
+						{
+							"listen": "test",
+							"script": {
+								"id": "80d8380f-c20e-45bc-b1f7-94be105e06fd",
+								"exec": [
+									"var data = JSON.parse(responseBody);",
+									"",
+									"pm.collectionVariables.set(\"authToken\", data.token);"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"username\": \"admin\",\n\t\"password\": \"password123\"\n}"
+						},
+						"url": {
+							"raw": "https://restful-booker.herokuapp.com/auth",
+							"protocol": "https",
+							"host": [
+								"restful-booker",
+								"herokuapp",
+								"com"
+							],
+							"path": [
+								"auth"
+							]
+						},
+						"description": "Creates a new auth token to use for access to the PUT and DELETE /booking"
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Booking",
+			"item": [
+				{
+					"name": "Get Booking IDs",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/booking?checkout=2020-01-31",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"booking"
+							],
+							"query": [
+								{
+									"key": "firstname",
+									"value": "Sally",
+									"description": "Return bookings with a specific firstname",
+									"disabled": true
+								},
+								{
+									"key": "lastname",
+									"value": "Coomber",
+									"description": "Return bookings with a specific lsstname",
+									"disabled": true
+								},
+								{
+									"key": "checkin",
+									"value": "2020-01-01",
+									"description": "Return bookings that have a checkin date greater than or equal to the set checkin date. Format must be CCYY-MM-DD",
+									"disabled": true
+								},
+								{
+									"key": "checkout",
+									"value": "2020-01-31",
+									"description": "Return bookings that have a checkout date less than or equal to the set checkout date. Format must be CCYY-MM-DD"
+								}
+							]
+						},
+						"description": "Returns the ids of all the bookings that exist within the API. Can take optional query strings to search and return a subset of booking ids."
+					},
+					"response": []
+				},
+				{
+					"name": "Get Booking",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": "Sets what format the response body is returned in. Can be application/json or application/xml\n\nDefault value: application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"url": {
+							"raw": "{{baseUrl}}/booking/:id",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"booking",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "1",
+									"type": "string",
+									"description": "The id of the booking you would like to retrieve"
+								}
+							]
+						},
+						"description": "Returns a specific booking based upon the booking id provided."
+					},
+					"response": []
+				},
+				{
+					"name": "Create Booking",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"description": "Sets the format of payload you are sending. Can be application/json or text/xml\n\nDefault value: application/json",
+								"type": "text"
+							},
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": "Sets what format the response body is returned in. Can be application/json or application/xml\n\nDefault value: application/json",
+								"type": "text",
+								"disabled": true
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"firstname\" : \"Jim\",\n    \"lastname\" : \"Brown\",\n    \"totalprice\" : 111,\n    \"depositpaid\" : true,\n    \"bookingdates\" : {\n        \"checkin\" : \"2020-01-01\",\n        \"checkout\" : \"2021-01-01\"\n    },\n    \"additionalneeds\" : \"Breakfast\"\n}"
+						},
+						"url": {
+							"raw": "{{baseUrl}}/booking",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"booking"
+							]
+						},
+						"description": "Creates a new booking in the API."
+					},
+					"response": []
+				},
+				{
+					"name": "Update Booking",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"description": "Sets the format of payload you are sending. Can be application/json or text/xml\n\nDefault value: application/json",
+								"type": "text"
+							},
+							{
+								"description": "Sets what format the response body is returned in. Can be application/json or application/xml\n\nDefault value: application/json",
+								"key": "Accept",
+								"type": "text",
+								"value": "application/json",
+								"disabled": true
+							},
+							{
+								"key": "Cookie",
+								"value": "token={{authToken}}",
+								"description": "Sets an authorisation token to access the PUT endpoint, can be used as an alternative to the Authorisation",
+								"type": "text"
+							},
+							{
+								"key": "Authorisation",
+								"value": "Basic {{authKey}}",
+								"description": "Basic authorisation header to access the PUT endpoint, can be used as an alternative to the Cookie header",
+								"type": "text",
+								"disabled": true
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"firstname\" : \"James\",\n    \"lastname\" : \"Brown\",\n    \"totalprice\" : 111,\n    \"depositpaid\" : true,\n    \"bookingdates\" : {\n        \"checkin\" : \"2018-01-01\",\n        \"checkout\" : \"2019-01-01\"\n    },\n    \"additionalneeds\" : \"Breakfast\"\n}"
+						},
+						"url": {
+							"raw": "{{baseUrl}}/booking/:id",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"booking",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "31",
+									"type": "string"
+								}
+							]
+						},
+						"description": "Updates a current booking."
+					},
+					"response": []
+				},
+				{
+					"name": "Partial Update Booking",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"description": "Sets the format of payload you are sending. Can be application/json or text/xml\n\nDefault value: application/json",
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							},
+							{
+								"description": "Sets what format the response body is returned in. Can be application/json or application/xml\n\nDefault value: application/json",
+								"key": "Accept",
+								"type": "text",
+								"value": "application/json"
+							},
+							{
+								"description": "Sets an authorisation token to access the PUT endpoint, can be used as an alternative to the Authorisation",
+								"key": "Cookie",
+								"type": "text",
+								"value": "token={{authToken}}"
+							},
+							{
+								"description": "Basic authorisation header to access the PUT endpoint, can be used as an alternative to the Cookie header",
+								"key": "Authorisation",
+								"type": "text",
+								"value": "Basic {{authKey}}",
+								"disabled": true
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"roomid\": 1,\n    \"firstname\": \"Tab\",\n    \"lastname\": \"Tab\",\n    \"depositpaid\": false,\n    \"bookingdates\": {\n        \"checkin\": \"2020-02-01\",\n        \"checkout\": \"2020-02-08\"\n    }\n}"
+						},
+						"url": {
+							"raw": "{{baseUrl}}/booking/:id",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"booking",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "1",
+									"type": "string"
+								}
+							]
+						},
+						"description": "Updates a current booking with a partial payload."
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Booking",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"description": "Sets what format the response body is returned in. Can be application/json or application/xml\n\nDefault value: application/json",
+								"type": "text"
+							},
+							{
+								"key": "Authorisation",
+								"value": "Basic {{authKey}}",
+								"description": "Basic authorisation header to access the DELETE endpoint, can be used as an alternative to the Cookie header",
+								"type": "text",
+								"disabled": true
+							},
+							{
+								"key": "Cookie",
+								"value": "token={{authToken}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"url": {
+							"raw": "{{baseUrl}}/booking/:id",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"booking",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "2",
+									"type": "string",
+									"description": "The id of the booking you would like to retrieve"
+								}
+							]
+						},
+						"description": "Returns a specific booking based upon the booking id provided."
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Ping",
+			"item": [
+				{
+					"name": "Health Check",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/ping",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"ping"
+							]
+						},
+						"description": "A simple health check endpoint to confirm whether the API is up and running."
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Reports",
+			"item": [
+				{
+					"name": "Get All Room Reports",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"description": "Sets what format the response body is returned in. Can be application/json or application/xml\n\nDefault value: application/json",
+								"key": "Accept",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"url": {
+							"raw": "{{baseUrl}}/report/",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"report",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Specific Room Reports",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"description": "Sets what format the response body is returned in. Can be application/json or application/xml\n\nDefault value: application/json",
+								"key": "Accept",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"url": {
+							"raw": "{{baseUrl}}/room/:id",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"room",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "1",
+									"type": "string"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "4866a200-c144-4e99-aa77-2d194a3916ea",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "3f35cb3c-bdfe-410c-9716-35022bc8c999",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"id": "654b2aa6-b8e2-4d66-915d-c7b13195772a",
+			"key": "authToken",
+			"value": "ed290d0e87a9974",
+			"type": "string"
+		},
+		{
+			"id": "725c6af8-01d0-44c2-9e3a-4a5e20ab1181",
+			"key": "authKey",
+			"value": "YWRtaW46cGFzc3dvcmQxMjM=]",
+			"type": "string"
+		}
+	],
+	"protocolProfileBehavior": {}
+}

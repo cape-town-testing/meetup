@@ -22,7 +22,7 @@ Both DevOps are Cybersecurity are (still) not very well understood – even at a
 
 **18h40 Activities: Choose your own adventure!** (Note: The below are run in parallel.)
 * Darin Morris - "In-depth Devops & Cybersecurity" (an in-depth, more technical, follow-on from talk #1) - Main auditorium.</dd>
-* David Coomber - "Postman API Testing Basics" - Breakout room #1.</dd>
+* David Coomber - ["Postman API Testing Basics"](rest-basics-workshop) - Breakout room #1.</dd>
 * Matt & Rachel - "How to help to run this meetup!" -  - Breakout room #2.</dd>
 
 **19h30 Talk: "La La Land - When Safety Systems Go Rogue - Sven Agnew**
