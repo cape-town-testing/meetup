@@ -1,7 +1,7 @@
 ## MAKE QUALITY FRIENDS, MAKE QUALITY SOFTWARE
 
 ### Date:
-12 February 2020
+20 February 2020
 
 ### Venue:
 Digi Outsource
