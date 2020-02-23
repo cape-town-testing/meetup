@@ -19,13 +19,14 @@ This talk focuses at a high level on DevOps, Cybersecurity and their relationshi
 Both DevOps are Cybersecurity are (still) not very well understood – even at a high level. Both are very relevant and impactful. This talk are to educate and to share Darin's own experiences with the intention of sharing knowledge that will empower the community to be better professionals.
 
 [Presentation slides - coming soon]()
+[Recording](https://youtu.be/SKwjmSvNsiM)
 
 **18h40 Activities: Choose your own adventure!** (Note: The below are run in parallel.)
 * Darin Morris - "In-depth Devops & Cybersecurity" (an in-depth, more technical, follow-on from talk #1) - Main auditorium.</dd>
 * David Coomber - ["Postman API Testing Basics"](rest-basics-workshop) - Breakout room #1.</dd>
 * Matt & Rachel - "How to help to run this meetup!" -  - Breakout room #2.</dd>
 
-**19h30 Talk: "La La Land - When Safety Systems Go Rogue - Sven Agnew**
+**19h30 Talk: "La La Land - When Safety Systems Go Rogue" - Sven Agnew**
 
 In 2019, when La La Land was mistakenly announced as the Oscar winner for Best Picture, many people failed to realise 
 that the very system put in place to prevent such an occurrence was what ultimately caused the worst public failing in the Academy's history.
@@ -34,6 +35,7 @@ In this talk, we will discuss a number of widely studied failures and catastroph
 In particular we'll explore the dogma behind "monitor all the things" and ask the question "Does this make us safer or are we worse off than before?"
 
 [Presentation slides - coming soon]()
+[Recording](https://youtu.be/9ZanGYT93qs)
 
 **19h50 Mc's Farewell, Prize giving and farewell!**
 
