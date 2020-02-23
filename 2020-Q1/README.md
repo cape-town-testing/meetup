@@ -19,6 +19,7 @@ This talk focuses at a high level on DevOps, Cybersecurity and their relationshi
 Both DevOps are Cybersecurity are (still) not very well understood – even at a high level. Both are very relevant and impactful. This talk are to educate and to share Darin's own experiences with the intention of sharing knowledge that will empower the community to be better professionals.
 
 [Presentation slides - coming soon]()
+
 [Recording](https://youtu.be/SKwjmSvNsiM)
 
 **18h40 Activities: Choose your own adventure!** (Note: The below are run in parallel.)
@@ -35,6 +36,7 @@ In this talk, we will discuss a number of widely studied failures and catastroph
 In particular we'll explore the dogma behind "monitor all the things" and ask the question "Does this make us safer or are we worse off than before?"
 
 [Presentation slides - coming soon]()
+
 [Recording](https://youtu.be/9ZanGYT93qs)
 
 **19h50 Mc's Farewell, Prize giving and farewell!**
