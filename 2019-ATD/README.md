@@ -62,11 +62,11 @@ Benefits of a meetup - Why should you do it
 	5. A Safe Space to Develop and Share
 	* Create a safe environment for learning without judgement in the testing community
 ```
-Mistakes made
-	```
+Mistakes made:
+	
         * Initial motto was too long and people didn't connect with it
 	* Eventually settled on: Make Quality Friends and make Quality software`
-	```
+	
 Things to help your community grow 
 	
 	1. For Us By Us
@@ -87,7 +87,7 @@ Things to help your community grow
 
 Some ideas that the workshop came up with to inspire your next meetup:
 
-	```
+	
 	* People Fun (Competition, communication, cooperation):
         Cooking together
         Lightning talks 
