@@ -24,8 +24,10 @@ Friday 14:25-16:25, Room E1+E2+E3.
 * Other meetup resources: [Berlin Code of Conduct](http://berlincodeofconduct.org/)
 
 * Summary notes taken during the talk:
+
 `Origin of Cape Town Testing Meetup`
-`	* Started out in finance and moved to IT and got into testing
+```
+	* Started out in finance and moved to IT and got into testing
 	* Went to Let's Test after first year as a tester
 	* Realised there was a pride and sense of community that came to being a testing
 	* Wanted to be a tester because it was a black sheep role.
@@ -34,10 +36,11 @@ Friday 14:25-16:25, Room E1+E2+E3.
 	* Started in Feb 2017 and since then have hosted one each quarter
 	* Each meetup has a video, talks, prizes, games and take notes from each session to share with others
 	* Started at local company but wanted to share it with other companies in the area and use it as a form of marketing and promotion from other companies 
-	* Ideas used: Talks, Games, Social Activities`
-
+	* Ideas used: Talks, Games, Social Activities
+```
 Benefits of a meetup - Why should you do it
-`	* Occur more frequently than a conference 
+```
+        * Occur more frequently than a conference 
 	* Keep the energy and learning from a conference moving forward on a regular basis`
 
 	1. Create a community
@@ -58,11 +61,12 @@ Benefits of a meetup - Why should you do it
 
 	5. A Safe Space to Develop and Share
 	* Create a safe environment for learning without judgement in the testing community
-
+```
 Mistakes made
-	`* Initial motto was too long and people didn't connect with it
+	```
+        * Initial motto was too long and people didn't connect with it
 	* Eventually settled on: Make Quality Friends and make Quality software`
-
+	```
 Things to help your community grow 
 	
 	1. For Us By Us
@@ -81,8 +85,10 @@ Things to help your community grow
 	* Get people to share lessons, ideas and workshops 
 
 
-Some ideastha the workshop came up with to inspire your next meetup:
-	`* People Fun (Competition, communication, cooperation):
+Some ideas that the workshop came up with to inspire your next meetup:
+
+	```
+	* People Fun (Competition, communication, cooperation):
         Cooking together
         Lightning talks 
         Mistakes/things that went wrong
@@ -140,3 +146,4 @@ Some ideastha the workshop came up with to inspire your next meetup:
         Social consultancy (e.g. for charity and start-ups)
         Creating a "green" app
         Involves kids in testing
+```
